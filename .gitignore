@@ -1,0 +1,4 @@
+/migrations
+/venv
+app.log
+traces.json

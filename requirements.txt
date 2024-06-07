@@ -1,0 +1,9 @@
+psycopg2-binary
+flask
+Flask-SQLAlchemy
+flask-migrate
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-sqlalchemy
+opentelemetry-exporter-jaeger

@@ -1,0 +1,3 @@
+FROM postgres
+RUN mkdir -p /logs
+RUN chown postgres:postgres /logs
