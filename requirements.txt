@@ -7,3 +7,4 @@ opentelemetry-sdk
 opentelemetry-instrumentation-flask
 opentelemetry-instrumentation-sqlalchemy
 opentelemetry-exporter-jaeger
+prometheus_flask_exporter
